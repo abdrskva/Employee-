@@ -1,4 +1,5 @@
-Employee Management System
+**Employee Management System**
+
 Description
 This project is a Java-based Employee Management System that allows users to manage employee data using JDBC for database interaction.
 The system supports the following CRUD operations:
